@@ -1,2 +1,3 @@
 # 1st-practical-day
-this is my very first Git repository.
+This is my very first Git repository.
+Author-Rauf Asad.
